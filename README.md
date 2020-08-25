@@ -10,4 +10,4 @@ Sur son application, ExpressFood propose à ses clients de commander un ou plusi
 
 Conception de shéma UML afin de créer une application.
 
-Acteur - Cas d'utilisation - Diagramme de classe - SQL
+Acteurs - Cas d'utilisation - Diagramme de classe - SQL
